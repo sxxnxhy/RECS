@@ -1,4 +1,6 @@
-# Virtual Simulator for DC Traction Power Supply System
+# RECS (Railway Electrification Calculation Simulator)
+
+## Virtual Simulator for DC Traction Power Supply System
 
 ## Overview
 The **Virtual Simulator for Analysis of Voltage Drops and Short Circuits in the DC Traction Power Supply System** is a Python-based software developed to simulate the electrical behavior of a **3 kV DC traction system**. This program allows users to analyze various railway electrification parameters, including:
