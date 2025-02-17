@@ -1,1 +1,0 @@
-([('main', '/Users/syoo/Downloads/RECS/dist/main', 'EXECUTABLE')],)
