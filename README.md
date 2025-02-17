@@ -40,7 +40,7 @@ Ensure you have the following installed on your system:
 - **Python (3.x)**
 - Required Python libraries:
   ```sh
-  pip install tkinter numpy matplotlib
+  pip install pillow
   ```
 
 ### Running the Program
