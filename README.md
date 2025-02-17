@@ -59,14 +59,24 @@ Ensure you have the following installed on your system:
    - Substation Analysis
    - Traction System Voltage Drop
    - Short-Circuit Analysis
+     
+     ![App Screenshot](images/main_window.png)
 2. **Enter Required Parameters:**
-   - Select from dropdown menus or manually input values.
+   - Select from dropdown menus or manually input values. (example of traction system calculation window below)
+  
+     ![Traction Screenshot](images/traction_window.png)
+     ![Traction Screenshot 2](images/traction_window2.png)
+
+     
 3. **Run the Simulation:**
    - Click the **'Calculate'** button.
+  
 4. **Analyze Outputs:**
-   - View voltage and current graphs
-   - Review calculation logs
-   - Examine short-circuit behavior
+   - View voltage and current values
+   - Review calculations
+   - Examine the calculated values for different locations of the train by using the km buttons.
+  
+    ![Traction result Screenshot ](images/traction_result.png)
 
 ---
 
