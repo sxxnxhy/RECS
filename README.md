@@ -30,7 +30,7 @@ The simulator was initially developed as part of a **bachelor’s thesis at Wars
 
 ## Installation and Setup
 
-you can simply download the zip and run RECS.EXE
+you can simply download the zip and run RECS.EXE 🚀
 
 or if you want to run the code itself, please follow below
 
