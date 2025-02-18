@@ -12,7 +12,7 @@ The **Virtual Simulator for Analysis of Voltage Drops and Short Circuits in the 
 
 The simulator was initially developed as part of a **bachelor’s thesis at Warsaw University of Technology**, aiming to modernize railway electrification studies by replacing traditional physical laboratory experiments with a flexible digital environment.
 
-#### If you would like to have a look at the thesis itself, it is uploaded as Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf [Download Thesis (PDF)](Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf) 😄
+#### If you would like to have a look at the thesis itself, it is uploaded as Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf [Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024 (PDF)](Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf) 😄
 
 
 
@@ -32,11 +32,7 @@ The simulator was initially developed as part of a **bachelor’s thesis at Wars
 
 ## Installation and Setup
 
-You can simply click on the link below and  and run RECS.EXE 
-
-[Download (EXE)](RECS.exe) 🚀
-
-it is also included in the zip so you can download the zip file and run it from there.
+Download the zip of this repository and run RECS.EXE 🚀
 
 or if you want to run the code itself, please follow below
 
