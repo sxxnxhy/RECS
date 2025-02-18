@@ -12,7 +12,7 @@ The **Virtual Simulator for Analysis of Voltage Drops and Short Circuits in the 
 
 The simulator was initially developed as part of a **bachelor’s thesis at Warsaw University of Technology**, aiming to modernize railway electrification studies by replacing traditional physical laboratory experiments with a flexible digital environment.
 
-#### If you would like to have a look at the thesis itself, it is uploaded as Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf [Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024 (PDF)](Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf) 😄
+#### If you would like to have a look at the thesis itself, it is uploaded as [Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024 (PDF)](Virtual_Simulator_DC_Traction_Seunghyun_Yoo_2024.pdf) 😄
 
 
 
